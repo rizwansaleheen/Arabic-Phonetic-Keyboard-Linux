@@ -1,0 +1,4 @@
+1. git clone https://github.com/suryaya/Arabic-Phonetic-Keyboard-Linux
+2. mv /usr/share/X11/xkb/symbols/ara /usr/share/X11/xkb/symbols/ara_backup
+3. mv ~/Arabic-Phonetic-Keyboard-Linux/ara /usr/share/X11/xkb/symbols/ara
+4. keyboard settings theke 'arabic (QWERTY)' select kore niben normally jeta die type korten
